@@ -39,4 +39,5 @@ Codewars is an educational community for computer programming. On the platform, 
 
 * 8 kyu - [Abbreviate a Two Word Name](js/abbreviate-a-two-word-name.js)
 * 8 kyu - [Convert a String to an Array](js/convest-a-string-to-an-array.js)
+* 8 kyu - [Convert Boolean Values to Strings](js/convert_boolean_values_to_strings.js)
 * 8 kyu - [Is the String Uppercase](js/is-the-string-uppercase.js)
