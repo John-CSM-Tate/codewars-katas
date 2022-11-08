@@ -36,6 +36,7 @@ Codewars is an educational community for computer programming. On the platform, 
 ### JavaScript
 
 * 7 kyu - [Reverse List](js/reverse-list.js)
+* 7 kyu - [Vowel One](js/vowel-one.js)
 
 * 8 kyu - [Abbreviate a Two Word Name](js/abbreviate-a-two-word-name.js)
 * 8 kyu - [Convert a String to an Array](js/convert-a-string-to-an-array.js)
