@@ -45,5 +45,6 @@ Codewars is an educational community for computer programming. On the platform, 
 * 8 kyu - [Grasshopper - Array Mean](js/grasshopper-array-mean.js)
 * 8 kyu - [Grasshopper - Basic Function Fixer](js/grasshopper-basic-function-fixer.js)
 * 8 kyu - [Is the String Uppercase](js/is-the-string-uppercase.js)
+* 8 kyu - [Is it a Palindrome?](js/is-it-a-palindrome.js)
 * 8 kyu - [Remove String Spaces](js/remove-string-spaces.js)
 * 8 kyu - [Square(n) Sum](js/square-n-sum.js)
