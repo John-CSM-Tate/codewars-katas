@@ -39,6 +39,7 @@ Codewars is an educational community for computer programming. On the platform, 
 * 7 kyu - [Vowel One](js/vowel-one.js)
 
 * 8 kyu - [Abbreviate a Two Word Name](js/abbreviate-a-two-word-name.js)
+* 8 kyu - [Convert a String to a Number!](js/convert-a-string-to-a-number.js)
 * 8 kyu - [Convert a String to an Array](js/convert-a-string-to-an-array.js)
 * 8 kyu - [Convert Boolean Values to Strings](js/convert-boolean-values-to-strings.js)
 * 8 kyu - [Function 1 - Hello World](js/function-1-hello-world.js)
