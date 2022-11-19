@@ -42,6 +42,7 @@ Codewars is an educational community for computer programming. On the platform, 
 * 8 kyu - [Convert a String to a Number!](js/convert-a-string-to-a-number.js)
 * 8 kyu - [Convert a String to an Array](js/convert-a-string-to-an-array.js)
 * 8 kyu - [Convert Boolean Values to Strings](js/convert-boolean-values-to-strings.js)
+* 8 kyu - [Find Maximum and Minimum Values of a List](js/find-maximun-and-minimum-values-of-a-list.js)
 * 8 kyu - [Function 1 - Hello World](js/function-1-hello-world.js)
 * 8 kyu - [Grasshopper - Array Mean](js/grasshopper-array-mean.js)
 * 8 kyu - [Grasshopper - Basic Function Fixer](js/grasshopper-basic-function-fixer.js)
