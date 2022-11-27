@@ -35,6 +35,7 @@ Codewars is an educational community for computer programming. On the platform, 
 
 ### JavaScript
 
+* 7 kyu - [How Many Arguments](js/how-many-arguments.js)
 * 7 kyu - [Reverse List](js/reverse-list.js)
 * 7 kyu - [Vowel One](js/vowel-one.js)
 
