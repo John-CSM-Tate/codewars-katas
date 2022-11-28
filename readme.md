@@ -37,6 +37,7 @@ Codewars is an educational community for computer programming. On the platform, 
 
 * 7 kyu - [How Many Arguments](js/how-many-arguments.js)
 * 7 kyu - [Reverse List](js/reverse-list.js)
+* 7 kyu - [Square Every Digit](js/square-every-digit.js)
 * 7 kyu - [Vowel One](js/vowel-one.js)
 
 * 8 kyu - [Abbreviate a Two Word Name](js/abbreviate-a-two-word-name.js)
