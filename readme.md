@@ -35,6 +35,7 @@ Codewars is an educational community for computer programming. On the platform, 
 
 ### JavaScript
 
+* 7 kyu - [Especially Joyful Numbers](js/especially-joyful-mumbers.js)
 * 7 kyu - [Highest and Lowest](js/highest-and-lowest.js)
 * 7 kyu - [How Many Arguments](js/how-many-arguments.js)
 * 7 kyu - [Reverse List](js/reverse-list.js)
