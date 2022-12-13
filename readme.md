@@ -52,6 +52,7 @@ Codewars is an educational community for computer programming. On the platform, 
 * 8 kyu - [Grasshopper - Basic Function Fixer](js/grasshopper-basic-function-fixer.js)
 * 8 kyu - [Grasshopper - Check for factor](js/grasshopper-check-for-factor.js)
 * 8 kyu - [Grasshopper - Debug sayHello](js/grasshopper-debug-sayhello.js)
+* 8 kyu - [Grasshopper - Summation](js/grasshopper-summation.js)
 * 8 kyu - [How many lightsabers do you own?](js/how-many-lightsabers-do-you-own.js)
 * 8 kyu - [Invert Values](js/invert-values.js)
 * 8 kyu - [Is the String Uppercase](js/is-the-string-uppercase.js)
