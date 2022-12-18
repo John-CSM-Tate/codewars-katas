@@ -59,3 +59,4 @@ Codewars is an educational community for computer programming. On the platform, 
 * 8 kyu - [Is it a Palindrome?](js/is-it-a-palindrome.js)
 * 8 kyu - [Remove String Spaces](js/remove-string-spaces.js)
 * 8 kyu - [Square(n) Sum](js/square-n-sum.js)
+* 8 kyu - [Subtract the Sum](js/subtract-the-sum.js)
